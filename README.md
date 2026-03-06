@@ -137,6 +137,16 @@ npm run dev
 
 ---
 
+## Academic Supervision
+
+This project was developed under the supervision of:
+
+| Name | GitHub |
+|-----|------|
+| **Dr. Ahmed Said** | https://github.com/dr-ahmed-said |
+
+---
+
 ## License
 
 This project is developed as part of an academic graduation project.
