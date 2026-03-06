@@ -111,14 +111,29 @@ npm run dev
 
 *Graduation Project — 2025/2026*
 
-| Name | GitHub | Role |
-|-----|------|------|
-| **Abdulrhman Mohamed** | https://github.com/yeagx | Frontend |
-| **Mohamed Amgad** | https://github.com/Mohamedamged17 | Frontend |
-| **Amr Mustafa** | https://github.com/AmrMustafa2 | AI |
-| **Mohamed Youness** | https://github.com/mohamedAY2004 | Backend |
-| **Ahmed Abo El-Naga** | https://github.com/AhmedAboelnaga004 | Mobile / AI |
-| **Youssef Kamal** | https://github.com/MajikorX | Backend |
+### Frontend
+| Name | GitHub |
+|-----|------|
+| **Abdulrhman Mohamed** | https://github.com/yeagx |
+| **Mohamed Amgad** | https://github.com/Mohamedamged17 |
+
+### Backend
+| Name | GitHub |
+|-----|------|
+| **Mohamed Youness** | https://github.com/mohamedAY2004 |
+| **Youssef Kamal** | https://github.com/MajikorX |
+
+### AI
+| Name | GitHub |
+|-----|------|
+| **Amr Mustafa** | https://github.com/AmrMustafa2 |
+| **Mohamed Youness** | https://github.com/mohamedAY2004 |
+| **Ahmed Abo El-Naga** | https://github.com/AhmedAboelnaga004 |
+
+### Mobile
+| Name | GitHub |
+|-----|------|
+| **Ahmed Abo El-Naga** | https://github.com/AhmedAboelnaga004 |
 
 ---
 
