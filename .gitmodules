@@ -1,3 +1,6 @@
 [submodule "docmind-frontend"]
 	path = docmind-frontend
 	url = https://github.com/yeagx/docmind-frontend.git
+[submodule "DocMind"]
+	path = DocMind
+	url = https://github.com/AhmedAboelnaga004/DocMind.git
