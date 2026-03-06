@@ -68,6 +68,7 @@ DocMind-GradProject/
 ├── docmind-frontend/     # React frontend application
 ├── docmind-backend/      # Backend API server (coming soon)
 ├── docmind-ai/           # AI/ML models and pipelines (coming soon)
+├── docmind-mobile/       # Mobile application
 └── README.md
 ```
 
@@ -109,6 +110,15 @@ npm run dev
 ## Team
 
 *Graduation Project — 2025/2026*
+
+| Name | GitHub | Role |
+|-----|------|------|
+| **Abdulrhman Mohamed** | https://github.com/yeagx | Frontend |
+| **Mohamed Amgad** | https://github.com/Mohamedamged17 | Frontend |
+| **Amr Mustafa** | https://github.com/AmrMustafa2 | AI |
+| **Mohamed Youness** | https://github.com/mohamedAY2004 | Backend |
+| **Ahmed Abo El-Naga** | https://github.com/AhmedAboelnaga004 | Mobile / AI |
+| **Youssef Kamal** | https://github.com/MajikorX | Backend |
 
 ---
 
