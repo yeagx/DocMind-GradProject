@@ -4,3 +4,6 @@
 [submodule "DocMind"]
 	path = DocMind
 	url = https://github.com/AhmedAboelnaga004/DocMind.git
+[submodule "my-mini-rag"]
+	path = my-mini-rag
+	url = https://github.com/mohamedAY2004/my-mini-rag
