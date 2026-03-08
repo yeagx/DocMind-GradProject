@@ -2,7 +2,7 @@
 	path = docmind-frontend
 	url = https://github.com/yeagx/docmind-frontend.git
 [submodule "DocMind"]
-	path = DocMind
+	path = docmind-mobile
 	url = https://github.com/AhmedAboelnaga004/docmind-mobile
 [submodule "my-mini-rag"]
 	path = my-mini-rag
