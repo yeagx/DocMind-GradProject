@@ -5,5 +5,5 @@
 	path = docmind-mobile
 	url = https://github.com/AhmedAboelnaga004/docmind-mobile
 [submodule "my-mini-rag"]
-	path = my-mini-rag
+	path = docmind-ai
 	url = https://github.com/mohamedAY2004/my-mini-rag
